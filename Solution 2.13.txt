@@ -1,0 +1,11 @@
+VR429593
+
+Esercizio 2.13
+
+Viene detto che "a" è della stessa dimensione di "b".
+Viene detto anche che "a" è più grande di "c" e che "d" è più piccolo di "c".
+Se "a" ha la stessa dimensione di "b" allora anche "b" è più grande di "c".
+Se "d" è più piccolo di "c" allora "c" è più grande di "d".
+Possiamo dire che "b" è più grande di "c", che a sua volta è più grande di "d", 
+quindi "b" è più grande di "d".
+Dato che più grande e più piccolo sono inversi, possiamo dire che "d" è più piccolo di "b".

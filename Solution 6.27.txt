@@ -1,0 +1,6 @@
+VR429593
+
+Esercizio 6.27 (Informal proof)
+
+Date le premesse dell'esercizio (A AND B) OR (C AND D), (B AND C) OR (D AND E).
+Vogliamo dimostrare la conclusione C OR (A AND E). Dalla prima premessa possiamo supporre che A AND B sia vera, allora A è vera per l'eliminazione dell'AND. Dalla seconda premessa supponiamo che B AND C sia vera, e quindi C vero. Per l'introduzione dell'OR dato che C è vero abbiamo C OR (A AND E). Supponendo che la congiunzione D and E sia vera, quindi E si può introdurre l'AND con A, quindi A AND E e nuovamente l'OR ottendendo C OR (A AND E). Eliminando l'OR della seconda premessa si ottiene C OR (A AND E). Eliminando l'OR della seconda premessa si ottiene C OR (A AND E), e assumendo che C AND D sia vera, possiamo eliminare l'AND, tenere C e introdurre l'OR della prima premessa per poter concludere che C OR (A AND E).

@@ -1,0 +1,7 @@
+VR429593
+
+Esercizio 2.12
+
+Viene detto che "a" è dietro a "b" e che "a" è davanti a "c".
+Sapendo che davanti e dietro sono inversi, possiamo dire che "b" è davanti ad "a".
+Sapendo che "a" è davanti a "c" e "b" è davanti ad "a", allora "b" è davanti a "c".

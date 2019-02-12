@@ -1,0 +1,1 @@
+7.2.4.28445wnds:Windows 86.2SntFC1542721670278D1542722077208C1542731727333D1542731814016S129618Tet(a) & Small(a)~( ~Tet(a) | ~Small(a))Tet(a) $ Small(a)~Tet(a) | Small(a)Tet(a) % Small(a)~(~Tet(a) | ~Small(a)) | ~(Tet(a) | Small(a))(Cube(b) & Cube(c)) $ (Small(b) % Small(c))(~Cube(b) | ~Cube(c)) | (~(~Small(b) | ~Small(c)) | ~(Small(b) | Small(c)))s=55070;
